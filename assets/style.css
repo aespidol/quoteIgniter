@@ -1,0 +1,8 @@
+
+.quoteblock{
+	height: 250px;
+	width: 500px;
+	overflow: auto;
+	border-width: 1px;
+	border-style: solid;
+}
